@@ -1,3 +1,4 @@
-include:
-  - board: seeed_xiao_ble
-    shield: agar_mini_klink
+ include:
+-  - board: seeed_xiao_ble
++  - board: seeeduino_xiao_ble
+     shield: agar_mini_klink
